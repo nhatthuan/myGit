@@ -1,0 +1,21 @@
+Submitting a Unity3d Game to the Mac App Store
+
+
+Default Icon : 512x512
+
+Icon :
+	- 1024x1024
+	- 512x512
+	- 256x256
+	- 128x128
+	- 48x48
+	- 32x32
+	- 16x16
+ - Mac Developer Application & Mac Developer Installer
+ 
+ Splash Screen : 432x163
+ 
+ Unity Entitlements Tool
+ https://jemast.com/unity/unity-entitlements-tool
+ Tutorial :
+ https://www.youtube.com/watch?v=7tdadXyeskE
