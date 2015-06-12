@@ -1,0 +1,25 @@
+-------------------------------------------------------------
+How to use the patched unity and *.ulf file(s) for MAC.
+-------------------------------------------------------------
+
+First - the patched unity file:
+GO->Applications
+double-click the Unity folder
+right-click Unity, and select Open Package Contents
+double-click contents
+double-click MacOS
+right-click Unity and choose Copy "Unity"
+right-click somewhere on your desktop and choose Paste Item. (this is your backup)
+within Finder, right-click again on Unity and choose Move to Trash
+drag the patched Unity from the zip-file into the MacOS folder
+Now the *.ulf file
+GO->Computer
+double-click Library
+double-click Application Support
+double-click Unity
+right-click on the *.ulf file and choose Copy "Unity_v4.x.ulf" or "Unity_v5.x.ulf"
+right-click somewhere on your desktop and choose Paste Item. (this is your backup)
+within Finder, right-click again on *.ulf file and choose Move to Trash
+drag the patched *.ulf from the zip-file into that folder[
+
+If Unity now works as PRO, you can delete the saved items from your desktop.
